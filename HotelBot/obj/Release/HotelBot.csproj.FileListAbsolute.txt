@@ -1,0 +1,42 @@
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Bot Application.dll.config
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Bot Application.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Bot Application.pdb
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Autofac.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Chronic.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Newtonsoft.Json.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.Web.Http.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Autofac.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\Newtonsoft.Json.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.Web.Http.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\obj\Release\HotelBot.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\obj\Release\HotelBot.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\obj\Release\HotelBot.csproj.CopyComplete
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\obj\Release\Bot Application.dll
+C:\Users\Kyle\Google Drive\Dev\C#\HotelBot\HotelBot\obj\Release\Bot Application.pdb
